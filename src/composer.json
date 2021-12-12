@@ -1,0 +1,17 @@
+{
+    "name": "laravelmodulesc/module-stubs",
+    "description": "Stubs for Laravel Modules",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "David Carr",
+            "email": "dave@laravelmodules.com",
+            "homepage": "https://laravelmodules.com"
+        }
+    ],
+    "homepage": "https://github.com/laravelmodulesc/module-stubs",
+    "keywords": ["Laravel", "Laravel-Modules"],
+    "require": {
+        "php": "^8.0"
+    }
+}
