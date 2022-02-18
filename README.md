@@ -17,5 +17,5 @@ Find:
 Replace with
 
 ```php
-'path' => base_path() . '/vendor/laravel-modulesc/module-stubs/src/stubs',
+'path' => base_path() . '/vendor/laravel-modules-com/module-stubs/src/stubs',
 ```
